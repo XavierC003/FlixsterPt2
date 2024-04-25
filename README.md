@@ -2,7 +2,7 @@
 
 Submitted by: **Xavier Christian**
 
-**Flixster Pt2** is a movie browsing app that allows users to browse ... [TODO] 
+**Flixster Pt2** Is a movie browsing app that allows users to browse popular current movies as well as see review stars and a movie description.
 
 Time spent: **8** hours spent in total
 
